@@ -21,18 +21,9 @@ This project models metro stations as **nodes/vertices** and tracks as **weighte
 * **Language:** C (Standard C99)
 * **Data Structure:** Graph (represented using Adjacency Matrix)
 * **Algorithm:** Dijkstra's Shortest Path Algorithm
-* **IDE/Compiler:** Dev-C++, GCC, or Turbo C
+* **IDE/Compiler:** Dev-C++, GCC, or Turb
 
-
-=== PUNE METRO STATION LIST ===
-0. PCMC
-1. Bhosari
-2. Khadki
-3. Shivaji Nagar
-4. Swargate
-
-Enter Source Station Number (0-4): 0
-Enter Destination Station Number (0-4): 3
+  
 
 ==============================
      PUNE METRO TRIP DETAILS   
@@ -43,7 +34,6 @@ Total Distance      : 15 KM
 Estimated Time      : 30 Minutes
 Calculated Fare     : Rs. 40
 ==============================
----
 
 ## 🗺️ Metro Station Network Map
 The program simulates a network of 5 key stations with the following routes and distances (KM):
