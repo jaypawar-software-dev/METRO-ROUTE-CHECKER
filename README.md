@@ -23,17 +23,5 @@ This project models metro stations as **nodes/vertices** and tracks as **weighte
 * **Algorithm:** Dijkstra's Shortest Path Algorithm
 * **IDE/Compiler:** Dev-C++, GCC, or Turb
 
-  
-
-==============================
-     PUNE METRO TRIP DETAILS   
-==============================
-Source Station      : PCMC
-Destination Station : Shivaji Nagar
-Total Distance      : 15 KM
-Estimated Time      : 30 Minutes
-Calculated Fare     : Rs. 40
-==============================
-
 ## 🗺️ Metro Station Network Map
 The program simulates a network of 5 key stations with the following routes and distances (KM):
