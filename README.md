@@ -25,3 +25,8 @@ This project models metro stations as **nodes/vertices** and tracks as **weighte
 
 ## 🗺️ Metro Station Network Map
 The program simulates a network of 5 key stations with the following routes and distances (KM):
+## How to run
+*bash
+gcc metrosystem.c
+.\a.exe
+
